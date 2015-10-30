@@ -1,2 +1,2 @@
 general:
-  build_dir: api
+  build_dir: main/java/uk/co/jemos/podam/api
